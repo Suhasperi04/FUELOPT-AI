@@ -18,13 +18,21 @@ Features: Include dynamic parameters like altitude, ground speed, and airspeed, 
 Each phase of the flight is identified using the PH column:
 
 0: Unknown
+
 1: Preflight
+
 2: Taxi
+
 3: Takeoff
+
 4: Climb
+
 5: Cruise
+
 6: Approach
+
 7: Rollout
+
 
 
 Methodology
